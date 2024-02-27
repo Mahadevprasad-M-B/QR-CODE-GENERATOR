@@ -19,3 +19,15 @@ pip install qrcode
 pip install tkinter
 ```
 
+## Usage
+
+1. clone this repository.
+2. Navigate to the cloned directory:
+3. Run the script QR_CODE_GENERATOR.py:
+```bash
+python QR_CODE_GENERATOR.py
+```
+
+4. Enter the text or URL for which you want to generate the QR code.
+5. The QR Code will be generated and displayed using a label.
+
