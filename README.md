@@ -31,3 +31,7 @@ python QR_CODE_GENERATOR.py
 4. Enter the text or URL for which you want to generate the QR code.
 5. The QR Code will be generated and displayed using a label.
 
+## Visuals
+![](output1.jpg)
+![](output2.jpg)
+
